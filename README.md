@@ -30,7 +30,7 @@
 8. 商品搜索
 
 ## PC端仿京东首页
-- [https://github.com/huangche007/jd](https://github.com/huangche007/jd "pc端京东首页")
+- https://github.com/wanhua1993/vue-jd
 ## 安装
 
 已安装MySQL数据库，然后导入migou.sql文件
